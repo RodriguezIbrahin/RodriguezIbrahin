@@ -2,13 +2,16 @@
 
 _Soy Rodriguez Ibrahin y soy un Developer Full Stack :boom::boom:_
 
-_Sean bienvenidos a mi GitHub y sientance libres de ver todos mis trabajos actuales y pasados, pero antes si quieren saber algo de mi..._
 
-_Soy oriundo de Buenos Aires, Argentina :house:, estudie en [Henry](https://soyhenry.com) :school: donde aprendi las principales tecnologias actuales_
+_Sean bienvenidos a mi GitHub y siéntanse libres de ver todos mis trabajos actuales y pasados, pero antes si quieren saber algo de mi..._
+
+_Soy oriundo de Buenos Aires, Argentina :house: y estudie en [Henry](https://soyhenry.com) :school: donde aprendi las principales tecnologías actuales_
 ```
 HTLM | CSS | JavaScript | NodeJs | React | Redux | Express | Sequelize | PostgreSQL
 ```
 _Entre los proyecto que realize, puedo destacar [MOBA: Mobile Banking](https://www.youtube.com/watch?v=fs4kmvSOWmg) y el eCommerce de [RunningDeportes](https://runningdeportes.store)_
+
+#Algunos datos de contactos :rocket:
 
 
 <!--
