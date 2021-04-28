@@ -11,7 +11,7 @@ HTLM | CSS | JavaScript | NodeJs | React | Redux | Express | Sequelize | Postgre
 ```
 _Entre los proyecto que realize, puedo destacar [MOBA: Mobile Banking](https://www.youtube.com/watch?v=fs4kmvSOWmg) y el eCommerce de [RunningDeportes](https://runningdeportes.store)_
 
-# Algunos datos de contactos :rocket:
+## Algunos datos de contactos :speech_balloon:
 
 
 _Email: Rodriguezibrahin3@gmail.com_
