@@ -8,7 +8,7 @@ _Soy oriundo de Buenos Aires, Argentina :house:, estudie en [Henry](https://soyh
 ```
 HTLM | CSS | JavaScript | NodeJs | React | Redux | Express | Sequelize | PostgreSQL
 ```
-_Entre los proyecto que realize, puedo destacar MOBA, una billetera virtual y el eCommerce de RunningDeportes_
+_Entre los proyecto que realize, puedo destacar [MOBA: Mobile Banking](https://www.youtube.com/watch?v=fs4kmvSOWmg) y el eCommerce de [RunningDeportes](https://runningdeportes.store)_
 
 
 <!--
