@@ -13,9 +13,12 @@ _Entre los proyecto que realize, puedo destacar [MOBA: Mobile Banking](https://w
 
 # Algunos datos de contactos :rocket:
 
-```
-:email: Email: _Rodriguezibrahin3@gmail.com_
-```
+
+_Email: Rodriguezibrahin3@gmail.com_
+
+_LinkedIn: https://www.linkedin.com/in/rodriguezibrahin/_
+
+_PorfolioWeb: https://www.rodriguezibrahin.com.ar/_
 
 
 <!--
