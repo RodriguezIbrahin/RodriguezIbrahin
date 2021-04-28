@@ -1,4 +1,4 @@
-### HEllO THERE! 👋
+# HEllO THERE! 👋
 
 _Soy Rodriguez Ibrahin y soy un Developer Full Stack :boom::boom:_
 
@@ -11,7 +11,11 @@ HTLM | CSS | JavaScript | NodeJs | React | Redux | Express | Sequelize | Postgre
 ```
 _Entre los proyecto que realize, puedo destacar [MOBA: Mobile Banking](https://www.youtube.com/watch?v=fs4kmvSOWmg) y el eCommerce de [RunningDeportes](https://runningdeportes.store)_
 
-#Algunos datos de contactos :rocket:
+# Algunos datos de contactos :rocket:
+
+```
+:email: Email: _Rodriguezibrahin3@gmail.com_
+```
 
 
 <!--
