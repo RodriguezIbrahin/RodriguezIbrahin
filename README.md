@@ -5,7 +5,7 @@ _Soy Rodriguez Ibrahin y soy un Developer Full Stack :boom::boom:_
 
 _Sean bienvenidos a mi GitHub y siéntanse libres de ver todos mis trabajos actuales y pasados, pero antes si quieren saber algo de mi..._
 
-_Soy oriundo de Buenos Aires, Argentina :house: y estudie en [Henry](https://soyhenry.com) :school: donde aprendi las principales tecnologías actuales_
+_Soy oriundo de Buenos Aires, Argentina :house: y estudie en [Henry](https://soyhenry.com) :school: donde aprendi las principales tecnologías_
 ```
 HTLM | CSS | JavaScript | NodeJs | React | Redux | Express | Sequelize | PostgreSQL
 ```
