@@ -7,7 +7,7 @@ _Sean bienvenidos a mi GitHub y siéntanse libres de ver todos mis trabajos actu
 
 _Soy oriundo de Buenos Aires, Argentina :house: y estudie en [Henry](https://soyhenry.com) :school: donde aprendi las principales tecnologías_
 ```
-HTLM | CSS | JavaScript | NodeJs | React | Redux | Express | Sequelize | PostgreSQL
+HTLM | CSS | JavaScript | TypeScript | NodeJs | React | Redux | Express | Sequelize | PostgreSQL
 ```
 _Entre los proyecto que realize, puedo destacar [MOBA: Mobile Banking](https://www.youtube.com/watch?v=fs4kmvSOWmg) y el eCommerce de [RunningDeportes](https://runningdeportes.store)_
 
